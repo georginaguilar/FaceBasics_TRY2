@@ -1,0 +1,8 @@
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\FaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\MainWindow.baml
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\App.g.cs
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\FaceBasics-WPF_MarkupCompile.cache
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\FaceBasics-WPF.g.resources
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\Microsoft.Samples.Kinect.FaceBasics.Properties.Resources.resources
+C:\Users\georginadamara\Documents\Visual Studio 2013\Projects\FaceBasics_TRY2\obj\x64\Debug\FaceBasics-WPF.csproj.GenerateResource.Cache
